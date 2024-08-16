@@ -1,0 +1,18 @@
+C:\Users\earda\source\repos\pansiyon kayıt uygulaması\pansiyon kayıt uygulaması\bin\Debug\pansiyon kayıt uygulaması.exe.config
+C:\Users\earda\source\repos\pansiyon kayıt uygulaması\pansiyon kayıt uygulaması\bin\Debug\pansiyon kayıt uygulaması.exe
+C:\Users\earda\source\repos\pansiyon kayıt uygulaması\pansiyon kayıt uygulaması\bin\Debug\pansiyon kayıt uygulaması.pdb
+C:\Users\earda\source\repos\pansiyon kayıt uygulaması\pansiyon kayıt uygulaması\obj\Debug\pansiyon kayıt uygulaması.csproj.AssemblyReference.cache
+C:\Users\earda\source\repos\pansiyon kayıt uygulaması\pansiyon kayıt uygulaması\obj\Debug\pansiyon_kayıt_uygulaması.Form1.resources
+C:\Users\earda\source\repos\pansiyon kayıt uygulaması\pansiyon kayıt uygulaması\obj\Debug\pansiyon_kayıt_uygulaması.Properties.Resources.resources
+C:\Users\earda\source\repos\pansiyon kayıt uygulaması\pansiyon kayıt uygulaması\obj\Debug\pansiyon kayıt uygulaması.csproj.GenerateResource.cache
+C:\Users\earda\source\repos\pansiyon kayıt uygulaması\pansiyon kayıt uygulaması\obj\Debug\pansiyon kayıt uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\earda\source\repos\pansiyon kayıt uygulaması\pansiyon kayıt uygulaması\obj\Debug\pansiyon kayıt uygulaması.exe
+C:\Users\earda\source\repos\pansiyon kayıt uygulaması\pansiyon kayıt uygulaması\obj\Debug\pansiyon kayıt uygulaması.pdb
+C:\Users\earda\source\repos\pansiyon kayıt uygulaması\pansiyon kayıt uygulaması\obj\Debug\pansiyon_kayıt_uygulaması.FrmAnaSayfa.resources
+C:\Users\earda\source\repos\pansiyon kayıt uygulaması\pansiyon kayıt uygulaması\obj\Debug\pansiyon_kayıt_uygulaması.FrmYeniMusteri.resources
+C:\Users\earda\source\repos\pansiyon kayıt uygulaması\pansiyon kayıt uygulaması\obj\Debug\pansiyon_kayıt_uygulaması.FrmOdalar.resources
+C:\Users\earda\source\repos\pansiyon kayıt uygulaması\pansiyon kayıt uygulaması\obj\Debug\pansiyon_kayıt_uygulaması.frmMusterilercs.resources
+C:\Users\earda\source\repos\pansiyon kayıt uygulaması\pansiyon kayıt uygulaması\obj\Debug\pansiyon_kayıt_uygulaması.frmgelirGider.resources
+C:\Users\earda\source\repos\pansiyon kayıt uygulaması\pansiyon kayıt uygulaması\obj\Debug\pansiyon_kayıt_uygulaması.frmStoklar.resources
+C:\Users\earda\source\repos\pansiyon kayıt uygulaması\pansiyon kayıt uygulaması\obj\Debug\pansiyon_kayıt_uygulaması.frmFaturalar.resources
+C:\Users\earda\source\repos\pansiyon kayıt uygulaması\pansiyon kayıt uygulaması\obj\Debug\pansiyon_kayıt_uygulaması.MüşteriMesajları.resources
